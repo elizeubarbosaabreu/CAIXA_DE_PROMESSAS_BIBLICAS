@@ -27,7 +27,7 @@ from random import choice
 url = 'https://www.bible.com/pt/bible/211/JHN.3.NTLH'
 
 def novo_versiculo():
-    with open('versos.txt') as f:
+    with open('versos.txt') as f: # se não funcionar use um caminho real  ex.: 'C:\DIRETÓRIO\CAIXA_DE_PROMESSAS_BIBLICAS\versos.txt'
         lines = f.readlines()
     return choice(lines)
 
