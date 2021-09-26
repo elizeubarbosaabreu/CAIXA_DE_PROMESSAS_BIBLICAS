@@ -2,7 +2,7 @@
 
 A Bíblia Sagrada é a Palavra de Deus. Leia a Bíblia diairiamente!
 
-<img src='image.png />
+<img src='image.png' />
 
 Interface gráfica usando <a href='https://github.com/PySimpleGUI/PySimpleGUI'>pysimplegui</a>
 
